@@ -1,0 +1,5 @@
+{
+  "name": "Gemini IP Conflict Scanner",
+  "description": "An advanced IP scanning and analysis tool that identifies network conflicts and provides intelligent resolution suggestions using the Gemini API.",
+  "requestFramePermissions": []
+}
